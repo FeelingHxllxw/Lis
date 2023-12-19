@@ -1,0 +1,31 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1703008673709,1526,HTTP Request,200,OK,Users 1-1,text,true,,699022,256,1,1,https://voronezh.rebro-store.ru/,90,0,53
+1703008673709,96,HTTP Request-0,301,Moved Permanently,Users 1-1,text,true,,556,128,1,1,http://voronezh.rebro-store.ru/,90,0,53
+1703008673808,1427,HTTP Request-1,200,OK,Users 1-1,text,true,,698466,128,1,1,https://voronezh.rebro-store.ru/,797,0,663
+1703008675625,728,HTTP Request,200,OK,Users 1-2,text,true,,699022,256,1,1,https://voronezh.rebro-store.ru/,62,0,31
+1703008675625,62,HTTP Request-0,301,Moved Permanently,Users 1-2,text,true,,556,128,1,1,http://voronezh.rebro-store.ru/,62,0,31
+1703008675688,665,HTTP Request-1,200,OK,Users 1-2,text,true,,698466,128,1,1,https://voronezh.rebro-store.ru/,174,0,67
+1703008677622,763,HTTP Request,200,OK,Users 1-3,text,true,,699022,256,1,1,https://voronezh.rebro-store.ru/,54,0,26
+1703008677622,55,HTTP Request-0,301,Moved Permanently,Users 1-3,text,true,,556,128,1,1,http://voronezh.rebro-store.ru/,54,0,26
+1703008677677,708,HTTP Request-1,200,OK,Users 1-3,text,true,,698466,128,1,1,https://voronezh.rebro-store.ru/,198,0,69
+1703008679623,1062,HTTP Request,200,OK,Users 1-4,text,true,,699022,256,1,1,https://voronezh.rebro-store.ru/,54,0,26
+1703008679623,54,HTTP Request-0,301,Moved Permanently,Users 1-4,text,true,,556,128,1,1,http://voronezh.rebro-store.ru/,54,0,26
+1703008679678,1007,HTTP Request-1,200,OK,Users 1-4,text,true,,698466,128,1,1,https://voronezh.rebro-store.ru/,178,0,61
+1703008681632,2765,HTTP Request,200,OK,Users 1-5,text,true,,699022,256,2,2,https://voronezh.rebro-store.ru/,61,0,30
+1703008681632,61,HTTP Request-0,301,Moved Permanently,Users 1-5,text,true,,556,128,2,2,http://voronezh.rebro-store.ru/,61,0,30
+1703008681694,2703,HTTP Request-1,200,OK,Users 1-5,text,true,,698466,128,2,2,https://voronezh.rebro-store.ru/,208,0,61
+1703008683623,1673,HTTP Request,200,OK,Users 1-6,text,true,,699022,256,1,1,https://voronezh.rebro-store.ru/,1079,0,1047
+1703008683623,1079,HTTP Request-0,301,Moved Permanently,Users 1-6,text,true,,556,128,1,1,http://voronezh.rebro-store.ru/,1079,0,1047
+1703008684703,593,HTTP Request-1,200,OK,Users 1-6,text,true,,698466,128,1,1,https://voronezh.rebro-store.ru/,184,0,65
+1703008685623,659,HTTP Request,200,OK,Users 1-7,text,true,,699022,256,1,1,https://voronezh.rebro-store.ru/,51,0,25
+1703008685623,51,HTTP Request-0,301,Moved Permanently,Users 1-7,text,true,,556,128,1,1,http://voronezh.rebro-store.ru/,51,0,25
+1703008685675,607,HTTP Request-1,200,OK,Users 1-7,text,true,,698466,128,1,1,https://voronezh.rebro-store.ru/,181,0,68
+1703008687622,594,HTTP Request,200,OK,Users 1-8,text,true,,699022,256,1,1,https://voronezh.rebro-store.ru/,59,0,29
+1703008687622,59,HTTP Request-0,301,Moved Permanently,Users 1-8,text,true,,556,128,1,1,http://voronezh.rebro-store.ru/,59,0,29
+1703008687682,534,HTTP Request-1,200,OK,Users 1-8,text,true,,698466,128,1,1,https://voronezh.rebro-store.ru/,160,0,62
+1703008689621,676,HTTP Request,200,OK,Users 1-9,text,true,,699022,256,1,1,https://voronezh.rebro-store.ru/,59,0,28
+1703008689621,59,HTTP Request-0,301,Moved Permanently,Users 1-9,text,true,,556,128,1,1,http://voronezh.rebro-store.ru/,59,0,28
+1703008689681,616,HTTP Request-1,200,OK,Users 1-9,text,true,,698466,128,1,1,https://voronezh.rebro-store.ru/,182,0,68
+1703008691619,610,HTTP Request,200,OK,Users 1-10,text,true,,699022,256,1,1,https://voronezh.rebro-store.ru/,53,0,26
+1703008691619,53,HTTP Request-0,301,Moved Permanently,Users 1-10,text,true,,556,128,1,1,http://voronezh.rebro-store.ru/,53,0,26
+1703008691672,557,HTTP Request-1,200,OK,Users 1-10,text,true,,698466,128,1,1,https://voronezh.rebro-store.ru/,179,0,60
